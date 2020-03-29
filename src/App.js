@@ -1,6 +1,6 @@
 import React from 'react';
 import routesConfig from './route'
-import './assets/css/init.css';
+import './assets/styles/init.css';
 import {BrowserRouter as Router, Link, Route, Switch} from "react-router-dom";
 import Header from './templates/header';
 
